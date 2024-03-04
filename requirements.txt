@@ -3,3 +3,4 @@ matplotlib
 plotly
 seaborn
 streamlit
+babel
